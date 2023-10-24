@@ -1,0 +1,36 @@
+#textbox {
+    width:100%;
+    height:70%;
+    position:fixed;
+    left:0;
+    top:0;
+    padding-left: 5%;
+    padding-top: 1%;
+    background-color: aquamarine;
+    overflow-y: scroll;
+    font-size: 1.5em;
+}
+
+#user{
+    width: 100%;
+    height:30%;
+    top:70%;
+    left:0%;
+    position:fixed;
+    background-color: darkgreen;
+    padding-top: 5%;
+    padding-left: 5%;
+    font-size: 1.5em;
+}
+
+#name {
+    font-size: 1em;
+}
+
+#input {
+    font-size: 1em;
+}
+
+#button {
+    font-size: 1em;
+}
